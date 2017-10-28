@@ -95,6 +95,22 @@
             }
         },
         {
+            "Key": "72928e5d-bfda-47d7-a8e2-a81421b21a33",
+            "Value": {
+                "id": "74a944f2-f128-421d-9e0d-3749d11f9d15",
+                "resourcePath": "objects\\o_solid\\o_solid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "78f2968d-2ab7-4e6b-81c0-dac000a47ddc",
+            "Value": {
+                "id": "68308471-f3cc-4ccd-86f1-0ec6dddd18bd",
+                "resourcePath": "sprites\\s_solid\\s_solid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8a9523dd-f74b-4e8a-ae87-fad8ce605821",
             "Value": {
                 "id": "a8f5a87e-9865-45b9-9a47-27b70247fa2c",
