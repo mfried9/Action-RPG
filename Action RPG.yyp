@@ -42,7 +42,7 @@
             "Key": "27fbef9c-1305-4706-962f-4554935130b3",
             "Value": {
                 "id": "4db0bc1b-3c53-4023-abf3-95eea36ea492",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\r_base\\r_base.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -63,11 +63,35 @@
             }
         },
         {
+            "Key": "400df1a9-09c9-4b70-8bc4-ac6a4759ff9d",
+            "Value": {
+                "id": "2bcaf47d-5877-477e-972d-920bf441514b",
+                "resourcePath": "sprites\\s_player_run_right\\s_player_run_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "63220dca-639b-483b-9932-ef63ed6d1c1f",
             "Value": {
                 "id": "8f99ccd9-6353-4c60-a572-a4b60025535a",
                 "resourcePath": "views\\63220dca-639b-483b-9932-ef63ed6d1c1f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "63f1d944-1ce6-4ab2-8b4c-ea32c61d5246",
+            "Value": {
+                "id": "4b6e0419-4468-4cb5-8169-23f99b67a268",
+                "resourcePath": "objects\\o_player\\o_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6f8817b8-0218-4207-8bd3-c214ca24e861",
+            "Value": {
+                "id": "8bff3ea2-84a4-4e9e-b497-4fee755fd401",
+                "resourcePath": "sprites\\s_player_run_up\\s_player_run_up.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -140,6 +164,14 @@
                 "id": "99384996-0863-41a1-b928-b08590fa2475",
                 "resourcePath": "views\\b512616b-c76f-4538-ab3d-382b2f3fa3f2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5b5997c-5b92-4cee-a679-ec96124a661b",
+            "Value": {
+                "id": "ebbee4f6-5a78-4daa-95f2-7cb6225cf0c9",
+                "resourcePath": "sprites\\s_player_run_down\\s_player_run_down.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
