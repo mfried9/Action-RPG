@@ -1,3 +1,5 @@
+depth = -y;
+
 // Calls event for corresponding player state
 event_user(state_);
 

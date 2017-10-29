@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "27ea582b-dd50-4c67-a4da-398c3e5d9a86",
+            "Value": {
+                "id": "1a027563-d712-4f57-a9f7-9a3a021c2586",
+                "resourcePath": "sprites\\s_grass\\s_grass.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "27fbef9c-1305-4706-962f-4554935130b3",
             "Value": {
                 "id": "4db0bc1b-3c53-4023-abf3-95eea36ea492",
@@ -348,6 +356,14 @@
                 "id": "a0ee4d1d-deaf-441c-8e00-2296a203a612",
                 "resourcePath": "sprites\\s_player_roll_up\\s_player_roll_up.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dfc8b36e-a197-4392-b8fd-f3546ce01266",
+            "Value": {
+                "id": "821a5d6a-3682-4030-9f14-bfb69417751c",
+                "resourcePath": "objects\\o_grass\\o_grass.yy",
+                "resourceType": "GMObject"
             }
         },
         {
