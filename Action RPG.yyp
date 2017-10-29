@@ -79,10 +79,26 @@
             }
         },
         {
+            "Key": "52eb57f3-2754-438e-8af8-2de7af467955",
+            "Value": {
+                "id": "d395e1f8-9a7d-4630-b2a4-7ccf46a7f29b",
+                "resourcePath": "scripts\\get_direction_facing\\get_direction_facing.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "58d673b5-5eeb-4837-bdd6-810f5b1eeea9",
             "Value": {
                 "id": "6d2aadc8-5e21-45a7-9810-5ad4d09f6a3f",
                 "resourcePath": "scripts\\initialize_movement_entity\\initialize_movement_entity.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5f392e65-4e33-42c9-b911-25f97d4ea2ed",
+            "Value": {
+                "id": "0cdad5fc-4b90-4b68-a3ae-720fe7c86475",
+                "resourcePath": "scripts\\animation_hit_frame\\animation_hit_frame.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -271,6 +287,14 @@
             }
         },
         {
+            "Key": "ebf15ea5-c04a-4d97-898c-67939e14494a",
+            "Value": {
+                "id": "52ee881f-a337-433e-9f0d-736d36d0dc4a",
+                "resourcePath": "scripts\\approach\\approach.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "bea5edc7-abe9-4509-9ae0-2ceee164836c",
@@ -292,7 +316,10 @@
         "78deea04-4e4d-4d98-9d61-1e251feee640",
         "ea6c31a3-c2bc-4a07-8065-5dd6449754eb",
         "2f57f718-6132-49d7-92b0-fad512ab57ec",
-        "d505ab3a-2a93-4577-823e-15195d53307e"
+        "d505ab3a-2a93-4577-823e-15195d53307e",
+        "52eb57f3-2754-438e-8af8-2de7af467955",
+        "ebf15ea5-c04a-4d97-898c-67939e14494a",
+        "5f392e65-4e33-42c9-b911-25f97d4ea2ed"
     ],
     "tutorial": ""
 }
