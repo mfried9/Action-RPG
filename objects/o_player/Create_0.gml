@@ -1,6 +1,7 @@
 image_speed = 0;
 speed_ = 2;
 direction_facing_ = dir.right;
+//direction_ = 0;
 global.player_health = 4;
 
 enum player {
