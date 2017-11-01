@@ -1,4 +1,6 @@
 /// @description Attack State
+image_speed = 0.35;
+
 if animation_hit_frame(3) {
 	var _life = 1;
 	var _damage = 1;
