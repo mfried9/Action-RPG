@@ -55,11 +55,35 @@
             }
         },
         {
+            "Key": "0e4ba4f9-e196-49c2-885d-4289055248b7",
+            "Value": {
+                "id": "0ada066b-1161-4153-860b-94b9ad4b6574",
+                "resourcePath": "sprites\\s_bat_fly\\s_bat_fly.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "178e7a13-5a92-42d8-8a39-6ad4c8a3f6db",
             "Value": {
                 "id": "dbae8b5c-4a01-4c4c-b3f9-9b987a8b182f",
                 "resourcePath": "objects\/o_hitbox\/o_hitbox.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "18183c4f-d4b5-4ba0-ae6b-1821eb1b63b9",
+            "Value": {
+                "id": "c32fb6ad-02ba-42cf-a875-26f5dd07645d",
+                "resourcePath": "sprites\\s_porcupine_run\\s_porcupine_run.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1e5e66c1-83c8-435d-8a85-c6e49f0e0bc0",
+            "Value": {
+                "id": "0cfb8c4e-865e-4540-a5b4-1b806a22b4f8",
+                "resourcePath": "views\\1e5e66c1-83c8-435d-8a85-c6e49f0e0bc0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -111,6 +135,14 @@
             }
         },
         {
+            "Key": "33cbd810-fd0a-43e3-b539-e9e1ce7bc6e3",
+            "Value": {
+                "id": "4647ec5f-2d37-453d-b56e-db99e079dc1d",
+                "resourcePath": "sprites\\s_porcupine_attack\\s_porcupine_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "36d297d9-157a-498c-ab32-747d3ca2775c",
             "Value": {
                 "id": "e8d3a413-40bd-4de4-9911-f3d91157bb40",
@@ -148,6 +180,14 @@
                 "id": "d395e1f8-9a7d-4630-b2a4-7ccf46a7f29b",
                 "resourcePath": "scripts\/get_direction_facing\/get_direction_facing.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "549c7bf4-0b84-410f-8d0b-8b76d36c9cc2",
+            "Value": {
+                "id": "7b323806-b186-468b-a3c8-588c21826780",
+                "resourcePath": "sprites\\s_hornet_fly\\s_hornet_fly.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -476,6 +516,14 @@
                 "id": "ecbafb63-2f9d-471c-b6c2-3bc063bddebd",
                 "resourcePath": "views\\f4b7f859-6579-40ce-a7c1-911fc18dbd33.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f850a3a3-6a6d-4412-9256-814028f59144",
+            "Value": {
+                "id": "d609ffae-4285-41bd-ac10-86b06573d67c",
+                "resourcePath": "objects\\o_porcupine\\o_porcupine.yy",
+                "resourceType": "GMObject"
             }
         },
         {
