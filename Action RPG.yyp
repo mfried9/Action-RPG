@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "40096a1d-ca4b-4323-9614-54df5427ac9b",
+            "Value": {
+                "id": "3eefa547-f7df-42fa-99b0-8d95ba0450b3",
+                "resourcePath": "sprites\\s_death_effect\\s_death_effect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "400df1a9-09c9-4b70-8bc4-ac6a4759ff9d",
             "Value": {
                 "id": "2bcaf47d-5877-477e-972d-920bf441514b",
@@ -171,6 +179,14 @@
             "Value": {
                 "id": "b6980016-4b32-454e-b076-32fcf4792897",
                 "resourcePath": "sprites\/s_player_attack_down\/s_player_attack_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "47aeb260-2f17-4665-8dad-70f3ec9e17bc",
+            "Value": {
+                "id": "ac10a638-79c3-47a5-a6fe-593a78cc09ab",
+                "resourcePath": "sprites\\s_hit_effect\\s_hit_effect.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -271,6 +287,14 @@
             }
         },
         {
+            "Key": "75ca56a9-71d7-48d5-a295-e4976752ff6d",
+            "Value": {
+                "id": "2f7c6924-661c-425b-ab82-494451020f62",
+                "resourcePath": "scripts\\create_animation_effect\\create_animation_effect.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "78deea04-4e4d-4d98-9d61-1e251feee640",
             "Value": {
                 "id": "7331dfec-bcb5-41c1-8265-0b4a45c219ef",
@@ -356,6 +380,14 @@
                 "id": "bc5f7e42-11fc-4d8a-a4b1-d3ffe76f4f85",
                 "resourcePath": "views\/963ad651-ff92-4c78-b563-12436e5db5af.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "971b56c0-243f-4a67-8b20-a4e31b8c847d",
+            "Value": {
+                "id": "dc5b714f-4c2b-4c9d-8268-e122122d443b",
+                "resourcePath": "sprites\\s_grass_effect\\s_grass_effect.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -519,6 +551,14 @@
             }
         },
         {
+            "Key": "e696a7b4-3ac3-4681-a7ae-318e31abbcd2",
+            "Value": {
+                "id": "3f10dcc5-ad1a-4b37-afec-692118d40dd0",
+                "resourcePath": "objects\\o_animation_effect\\o_animation_effect.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ea6c31a3-c2bc-4a07-8065-5dd6449754eb",
             "Value": {
                 "id": "c1460627-8ae0-41dc-92e8-6b6e6a46c34b",
@@ -583,6 +623,14 @@
             }
         },
         {
+            "Key": "f6fb658e-6420-44f7-a596-6c76a43ecaad",
+            "Value": {
+                "id": "c6bf295f-6625-4e45-a54d-3a64959a9ea5",
+                "resourcePath": "views\\f6fb658e-6420-44f7-a596-6c76a43ecaad.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "f850a3a3-6a6d-4412-9256-814028f59144",
             "Value": {
                 "id": "d609ffae-4285-41bd-ac10-86b06573d67c",
@@ -628,7 +676,8 @@
         "5f392e65-4e33-42c9-b911-25f97d4ea2ed",
         "c763b4d8-0399-4609-8069-7d38a0e5077e",
         "a3f25dd8-f131-4425-91bf-aba4b2a18951",
-        "71aa7da8-9f51-4991-b0ee-677cb6c5c85c"
+        "71aa7da8-9f51-4991-b0ee-677cb6c5c85c",
+        "75ca56a9-71d7-48d5-a295-e4976752ff6d"
     ],
     "tutorial": ""
 }
