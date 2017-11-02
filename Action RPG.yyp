@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "92efdea2-ddc0-4cbb-a6b8-5528e22a815f",
+            "Value": {
+                "id": "84068da4-99c5-4c1f-8218-c27b7bbc7e19",
+                "resourcePath": "objects\\o_game\\o_game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "948b562b-81f1-4e02-914e-308f75d8b9ef",
             "Value": {
                 "id": "86a6ec86-3429-4d21-8afe-e2ac51d62d6d",
@@ -580,6 +588,14 @@
                 "id": "0fd51b36-eb0c-46a1-9337-dd178b2df835",
                 "resourcePath": "sprites\/s_bomb_hitbox\/s_bomb_hitbox.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd693db8-5bc0-4a84-9d13-861c38d4a522",
+            "Value": {
+                "id": "7e259d62-5b95-44f9-a6e5-ce7d8c9d6cdb",
+                "resourcePath": "rooms\\r_init\\r_init.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
