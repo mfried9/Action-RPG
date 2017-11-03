@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "629f4989-3e02-4236-ba04-0f63a1995e7b",
+            "Value": {
+                "id": "df1f1583-47a8-4146-8213-8b01a8a6b163",
+                "resourcePath": "views\\629f4989-3e02-4236-ba04-0f63a1995e7b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "63220dca-639b-483b-9932-ef63ed6d1c1f",
             "Value": {
                 "id": "8f99ccd9-6353-4c60-a572-a4b60025535a",
@@ -388,6 +396,14 @@
                 "id": "dc5b714f-4c2b-4c9d-8268-e122122d443b",
                 "resourcePath": "sprites\\s_grass_effect\\s_grass_effect.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "999dedc2-089b-4e37-a243-86f0ad3299cc",
+            "Value": {
+                "id": "196bb7be-2f05-4035-adcd-03f7f739cfe1",
+                "resourcePath": "scripts\\draw_self_flash\\draw_self_flash.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -677,7 +693,8 @@
         "c763b4d8-0399-4609-8069-7d38a0e5077e",
         "a3f25dd8-f131-4425-91bf-aba4b2a18951",
         "71aa7da8-9f51-4991-b0ee-677cb6c5c85c",
-        "75ca56a9-71d7-48d5-a295-e4976752ff6d"
+        "75ca56a9-71d7-48d5-a295-e4976752ff6d",
+        "999dedc2-089b-4e37-a243-86f0ad3299cc"
     ],
     "tutorial": ""
 }
