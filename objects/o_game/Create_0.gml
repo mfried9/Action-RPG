@@ -1,6 +1,5 @@
 global.one_second = game_get_speed(gamespeed_fps);
 instance_create_layer(0, 0, "Instances", o_input);
-paused_ = false;
 //audio_play_sound(a_music, 10, true);
 
 var _font_string = "ABCDEFGHIJKLMNOPQRSTUVWXYZ.abcdefghijklmnopqrstuvwxyz1234567890>,!':-+";
@@ -17,3 +16,7 @@ global.player_start_position = i_game_start;
 var _view_width = camera_get_view_width(view_camera[0]);
 var _view_height = camera_get_view_height(view_camera[0]);
 display_set_gui_size(_view_width, _view_height);
+
+paused_ = false;
+paused_sprite_ = noone;
+paused_sprite_scale_ = display_get_gui_width()/view_wport[0];
