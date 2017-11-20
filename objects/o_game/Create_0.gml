@@ -1,5 +1,6 @@
 global.one_second = game_get_speed(gamespeed_fps);
 instance_create_layer(0, 0, "Instances", o_input);
+paused_ = false;
 //audio_play_sound(a_music, 10, true);
 
 var _font_string = "ABCDEFGHIJKLMNOPQRSTUVWXYZ.abcdefghijklmnopqrstuvwxyz1234567890>,!':-+";
