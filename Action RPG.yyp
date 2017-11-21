@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "01e2d8d2-14c5-4e1f-8c34-0df6aa3ad1c1",
+            "Value": {
+                "id": "4f34eb07-608b-4783-b62d-5d245c126b84",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_sword_item\/o_sword_item.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "020e4e22-bdb2-40fd-8c28-d14d533cb771",
             "Value": {
                 "id": "b28251b4-8ef0-4bae-b351-351d8b379681",
@@ -93,6 +112,25 @@
                 ],
                 "resourcePath": "sounds\/a_collect_item\/a_collect_item.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "06239277-c1cc-4151-9e38-00576f39999f",
+            "Value": {
+                "id": "3d9ed2de-37c3-414a-b5f7-fc5d0945f722",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_inventory_box\/s_inventory_box.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1863,6 +1901,25 @@
             }
         },
         {
+            "Key": "b555f0a9-31c8-45f8-99f8-26faa258720d",
+            "Value": {
+                "id": "55bac309-8a8b-4ec3-8c73-2b6484021c22",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/inventory_draw\/inventory_draw.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "bb74b9a7-80ba-4386-aba4-7c62bf69048a",
             "Value": {
                 "id": "d0b79767-8154-49eb-bc45-440462f1ee06",
@@ -2091,6 +2148,25 @@
             }
         },
         {
+            "Key": "ce4f83fa-d3c0-4bcb-ba7d-60109b0d4905",
+            "Value": {
+                "id": "221b244d-3455-42b6-8b9e-0f3dad717c52",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_bomb_item\/s_bomb_item.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d39cd4c6-4ac8-4c15-bc5a-b37ca6368690",
             "Value": {
                 "id": "0732c359-ff00-446c-890e-ae63d6796ccd",
@@ -2145,6 +2221,25 @@
                 ],
                 "resourcePath": "views\/d5d7df47-fb7d-49f1-a187-9d789d17e7a1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "daea1e29-4f94-4bfd-b07f-7a6ac89123d4",
+            "Value": {
+                "id": "f3b24dd5-a433-4112-9476-9fdb7d48f6de",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_bomb_item\/o_bomb_item.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2644,7 +2739,8 @@
         "19412612-8d72-4618-a05c-9ca13e2a9728",
         "89f24ef1-e53d-485e-9d0b-38e9320bed06",
         "a930c2d9-9116-491f-9655-e0d103845192",
-        "4958d6fc-d9f2-4090-bf78-d19fb26522cf"
+        "4958d6fc-d9f2-4090-bf78-d19fb26522cf",
+        "b555f0a9-31c8-45f8-99f8-26faa258720d"
     ],
     "tutorial": ""
 }

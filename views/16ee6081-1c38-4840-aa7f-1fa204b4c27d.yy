@@ -6,7 +6,8 @@
     "children": [
         "70225320-ea9f-47bb-a047-25778fcdc108",
         "801fd277-b2c7-42a5-a4f9-4928c65fc0f9",
-        "356b2400-617c-4746-969d-166095a419b3"
+        "356b2400-617c-4746-969d-166095a419b3",
+        "06239277-c1cc-4151-9e38-00576f39999f"
     ],
     "filterType": "GMSprite",
     "folderName": "UI Sprites",
