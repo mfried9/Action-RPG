@@ -1,5 +1,5 @@
 ///@arg item
-var _item = argument0;
+var _item = singleton(argument0);
 
 var _item_index = array_find_index(_item, global.inventory);
 

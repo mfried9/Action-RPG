@@ -20,3 +20,6 @@ display_set_gui_size(_view_width, _view_height);
 paused_ = false;
 paused_sprite_ = noone;
 paused_sprite_scale_ = display_get_gui_width()/view_wport[0];
+
+inventory_create(6);
+inventory_add_item(o_ring_item);
