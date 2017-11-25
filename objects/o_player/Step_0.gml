@@ -1,3 +1,4 @@
+// Sets depth for visuals
 depth = -y;
 
 // Calls event for corresponding player state

@@ -1,3 +1,3 @@
 event_inherited();
-description_ = "It's a sword. What do you think?"
+description_ = "It's a sword. Kinda obvious."
 action_ = player.sword;

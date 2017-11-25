@@ -1,3 +1,4 @@
+// Initializing player
 initialize_movement_entity(0.5, 1, o_solid);
 initialize_hurtbox_entity();
 image_speed = 0;
@@ -7,7 +8,7 @@ roll_speed_ = 2;
 direction_facing_ = dir.right;
 roll_direction_ = 0;
 
-
+// Setting up player state table
 enum player {
 	move,
 	sword,
@@ -18,6 +19,7 @@ enum player {
 	hit
 }
 
+// Setting up player direction table
 enum dir {
 	right,
 	up,
@@ -25,6 +27,7 @@ enum dir {
 	down
 }
 
+// Sets base state
 starting_state_ = player.move;
 state_ = starting_state_;
 
@@ -51,3 +54,9 @@ sprite_[player.hit, dir.right] = s_player_run_right;
 sprite_[player.hit, dir.up] = s_player_run_up;
 sprite_[player.hit, dir.left] = s_player_run_right;
 sprite_[player.hit, dir.down] = s_player_run_down;
+
+// Sprite move lookup table
+sprite_[player.bomb, dir.right] = s_player_run_right;
+sprite_[player.bomb, dir.up] = s_player_run_up;
+sprite_[player.bomb, dir.left] = s_player_run_right;
+sprite_[player.bomb, dir.down] = s_player_run_down;
