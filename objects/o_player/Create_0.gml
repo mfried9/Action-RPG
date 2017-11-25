@@ -7,6 +7,8 @@ max_speed_ = 1.5
 roll_speed_ = 2;
 direction_facing_ = dir.right;
 roll_direction_ = 0;
+global.item[0] = global.inventory[0];
+global.item[1] = global.inventory[1];
 
 // Setting up player state table
 enum player {

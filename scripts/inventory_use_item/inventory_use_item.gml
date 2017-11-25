@@ -4,8 +4,10 @@ var _input = argument0;
 var _item = argument1;
 
 if _input {
-	if instance_exists(_item) {
+	if instance_exists(_item) and global.player_stamina >= _item.cost_ {
+		global.player_stamina = max(global.player_stamina - _item.cost_, 0);
 		state_ = _item.action_;
+		alarm[1] = global.one_second;
 		image_index = 0;
 	}
 }
