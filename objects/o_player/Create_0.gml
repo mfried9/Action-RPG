@@ -40,16 +40,16 @@ sprite_[player.move, dir.left] = s_player_run_right;
 sprite_[player.move, dir.down] = s_player_run_down;
 
 // Sprite sword lookup table
-sprite_[player.sword, dir.right] = s_player_attack_right;
-sprite_[player.sword, dir.up] = s_player_attack_up;
-sprite_[player.sword, dir.left] = s_player_attack_right;
-sprite_[player.sword, dir.down] = s_player_attack_down;
+sprite_[player.sword, dir.right] = s_player_run_right;
+sprite_[player.sword, dir.up] = s_player_run_up;
+sprite_[player.sword, dir.left] = s_player_run_right;
+sprite_[player.sword, dir.down] = s_player_run_down;
 
 // Sprite evade lookup table
-sprite_[player.evade, dir.right] = s_player_roll_right;
-sprite_[player.evade, dir.up] = s_player_roll_up;
-sprite_[player.evade, dir.left] = s_player_roll_right;
-sprite_[player.evade, dir.down] = s_player_roll_down;
+sprite_[player.evade, dir.right] = s_player_run_right;
+sprite_[player.evade, dir.up] = s_player_run_up;
+sprite_[player.evade, dir.left] = s_player_run_right;
+sprite_[player.evade, dir.down] = s_player_run_down;
 
 // Sprite hit lookup table
 sprite_[player.hit, dir.right] = s_player_run_right;

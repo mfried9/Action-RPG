@@ -103,14 +103,6 @@
             }
         },
         {
-            "Key": "0e4ba4f9-e196-49c2-885d-4289055248b7",
-            "Value": {
-                "id": "0ada066b-1161-4153-860b-94b9ad4b6574",
-                "resourcePath": "sprites\\s_batt\\s_batt.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0fc6eb75-8337-45a9-8b8b-43b1f1056f30",
             "Value": {
                 "id": "5e3f9d18-512a-4a36-9b68-c4e5e6fc2d6e",
@@ -303,14 +295,6 @@
             }
         },
         {
-            "Key": "2fb5d8cf-8409-4d8f-9d13-0ebe85a87704",
-            "Value": {
-                "id": "e7d2f84e-58c7-47dc-83cb-145610c6aa0e",
-                "resourcePath": "sprites\/s_player_attack_up\/s_player_attack_up.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "33cbd810-fd0a-43e3-b539-e9e1ce7bc6e3",
             "Value": {
                 "id": "4647ec5f-2d37-453d-b56e-db99e079dc1d",
@@ -346,7 +330,7 @@
             "Key": "37a116c8-0814-4b08-bd29-e04436961086",
             "Value": {
                 "id": "7668bc28-c28e-4af7-9496-e715e2c3f321",
-                "resourcePath": "objects\/o_gem_pickup\/o_gem_pickup.yy",
+                "resourcePath": "objects\\o_coin_pickup\\o_coin_pickup.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -388,14 +372,6 @@
                 "id": "10476e49-ef78-493c-a56a-bd4de698351e",
                 "resourcePath": "objects\/o_camera\/o_camera.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "42801a00-92b2-4130-9b47-c876e2d2a37b",
-            "Value": {
-                "id": "b6980016-4b32-454e-b076-32fcf4792897",
-                "resourcePath": "sprites\/s_player_attack_down\/s_player_attack_down.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -500,6 +476,14 @@
                 "id": "4a687d67-e072-44dc-82b1-6980ab7f932e",
                 "resourcePath": "scripts\/chance\/chance.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5c8c97cb-6665-4f89-92eb-2bf2da99cecf",
+            "Value": {
+                "id": "615f33d8-a784-4ca5-ae51-95914f76310a",
+                "resourcePath": "rooms\\r_room3\\r_room3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -746,7 +730,7 @@
             "Key": "92aa6663-26a2-422a-bbc0-7102650b4d90",
             "Value": {
                 "id": "5ea55462-4ad0-44d5-98e7-630e46b5695d",
-                "resourcePath": "sprites\/s_gem\/s_gem.yy",
+                "resourcePath": "sprites\\s_coin\\s_coin.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -756,14 +740,6 @@
                 "id": "84068da4-99c5-4c1f-8218-c27b7bbc7e19",
                 "resourcePath": "objects\/o_game\/o_game.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "948b562b-81f1-4e02-914e-308f75d8b9ef",
-            "Value": {
-                "id": "86a6ec86-3429-4d21-8afe-e2ac51d62d6d",
-                "resourcePath": "sprites\/s_player_roll_down\/s_player_roll_down.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -906,7 +882,7 @@
             "Key": "bb74b9a7-80ba-4386-aba4-7c62bf69048a",
             "Value": {
                 "id": "d0b79767-8154-49eb-bc45-440462f1ee06",
-                "resourcePath": "rooms\/r_world\/r_world.yy",
+                "resourcePath": "rooms\\r_room2\\r_room2.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1039,14 +1015,6 @@
             }
         },
         {
-            "Key": "d70da80d-298b-44e6-b726-223eebdfc393",
-            "Value": {
-                "id": "2192754b-db13-47c4-b285-940ca002b123",
-                "resourcePath": "sprites\/s_player_found_item\/s_player_found_item.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "daea1e29-4f94-4bfd-b07f-7a6ac89123d4",
             "Value": {
                 "id": "f3b24dd5-a433-4112-9476-9fdb7d48f6de",
@@ -1084,14 +1052,6 @@
                 "id": "43b47452-8066-4539-bd33-49d2cfb32d70",
                 "resourcePath": "objects\/o_start_position\/o_start_position.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "dd903a24-7d85-4a67-8819-ae21566c4bea",
-            "Value": {
-                "id": "a0ee4d1d-deaf-441c-8e00-2296a203a612",
-                "resourcePath": "sprites\/s_player_roll_up\/s_player_roll_up.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1146,7 +1106,7 @@
             "Key": "e980c8c0-fff6-4e6e-92b7-77efed65a292",
             "Value": {
                 "id": "9d0abbe5-e5af-4fcf-aeb5-06fba10921c2",
-                "resourcePath": "rooms\/r_sword\/r_sword.yy",
+                "resourcePath": "rooms\\r_start\\r_start.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1172,22 +1132,6 @@
                 "id": "5dcff5d2-ca92-47bd-809a-0f38de03c98c",
                 "resourcePath": "objects\/o_enemy\/o_enemy.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "edd7d36c-75c7-4155-b651-a7eb5cefb7e1",
-            "Value": {
-                "id": "c21656aa-dc5e-4ec1-bd90-98f8e68ca329",
-                "resourcePath": "sprites\/s_player_attack_right\/s_player_attack_right.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f1d3b3c5-c2be-4841-83a8-ff63db3dcb32",
-            "Value": {
-                "id": "a029fe63-1ef9-4f50-a020-6ecc7a867680",
-                "resourcePath": "sprites\/s_player_roll_right\/s_player_roll_right.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1227,14 +1171,6 @@
             "Value": {
                 "id": "d609ffae-4285-41bd-ac10-86b06573d67c",
                 "resourcePath": "objects\/o_porcupine\/o_porcupine.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f87cb566-37b6-4532-a913-092fdc3ca019",
-            "Value": {
-                "id": "1f2be437-3326-476e-a3c6-76b61cdeaa93",
-                "resourcePath": "objects\/o_bat\/o_bat.yy",
                 "resourceType": "GMObject"
             }
         },

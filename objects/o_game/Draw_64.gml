@@ -23,11 +23,11 @@ for (var _i = 0; _i < global.player_max_stamina; _i++) {
 	draw_sprite(s_stamina_ui, _filled, 4+17*_i, _gui_height-17);
 }
 
-var _gem_string = string(global.player_gems);
-var _text_width = string_width(_gem_string);
+var _coin_string = string(global.player_coins);
+var _text_width = string_width(_coin_string);
 var _x = _gui_width - _text_width+4;
 var _y = _gui_height - 16 + 4;
-draw_sprite(s_gem, 0, _x-16, _y+7);
-draw_text(_x-8, _y-1, _gem_string);
+draw_sprite(s_coin, 0, _x-16, _y+7);
+draw_text(_x-8, _y-1, _coin_string);
 
 inventory_draw(4, 36);
