@@ -1,10 +1,6 @@
 /// @description Move State
-var _x_speed = lengthdir_x(speed_, direction_);
 image_speed = 0.35;
-if _x_speed != 0 {
-	image_xscale = sign(_x_speed);
-}
-
+sprite_facing();
 if alarm[1] <= 0 {
 	apply_friction_to_movement_entity();
 }
