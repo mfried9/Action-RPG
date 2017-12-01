@@ -31,3 +31,7 @@ draw_sprite(s_coin, 0, _x-16, _y+7);
 draw_text(_x-8, _y-1, _coin_string);
 
 inventory_draw(4, 36);
+
+if room = r_room4 {
+	draw_text(_gui_width/2, _gui_height/2, "To be continued...");
+}
