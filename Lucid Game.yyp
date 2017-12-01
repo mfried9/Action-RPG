@@ -106,7 +106,7 @@
             "Key": "0e4ba4f9-e196-49c2-885d-4289055248b7",
             "Value": {
                 "id": "0ada066b-1161-4153-860b-94b9ad4b6574",
-                "resourcePath": "sprites\/s_bat\/s_bat.yy",
+                "resourcePath": "sprites\\s_batt\\s_batt.yy",
                 "resourceType": "GMSprite"
             }
         },
